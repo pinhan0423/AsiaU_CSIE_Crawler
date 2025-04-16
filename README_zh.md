@@ -20,27 +20,27 @@
    
 3. 執行爬蟲：
 
-python 期中報告.py
+   python 期中報告.py
 
 ## 輸出格式
 
-1. research_areas.txt
-
-姓名：張文鐘（Wen-Thong Chang）
-研究領域：物連網系統、視訊串流、通訊系統、影像處理
----
-姓名：蔡建發（Jeffrey J.P. Tsai）
-研究領域：人工智慧、生物資料、軟體工程、分散式即時系統
-...
-
-2. professors.db（SQLite）
-
-CREATE TABLE professors (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    name TEXT,
-    eng_name TEXT,
-    research_area TEXT
-);
+   1. research_areas.txt
+      
+      姓名：張文鐘（Wen-Thong Chang）
+      研究領域：物連網系統、視訊串流、通訊系統、影像處理
+      ---
+      姓名：蔡建發（Jeffrey J.P. Tsai）
+      研究領域：人工智慧、生物資料、軟體工程、分散式即時系統
+      ...
+   
+   2. professors.db（SQLite）
+   
+      CREATE TABLE professors (
+          id INTEGER PRIMARY KEY AUTOINCREMENT,
+          name TEXT,
+          eng_name TEXT,
+          research_area TEXT
+      );
 
 ## 使用技術
 
