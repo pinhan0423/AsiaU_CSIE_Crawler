@@ -16,9 +16,9 @@
 
 1. 安裝必要套件：
 
-   ```bash
    pip install requests beautifulsoup4
-2. 執行爬蟲：
+   
+3. 執行爬蟲：
 
 python 期中報告.py
 
@@ -44,13 +44,11 @@ CREATE TABLE professors (
 
 ## 使用技術
 
-1. requests
-
-2. BeautifulSoup
-
-3. sqlite3
+   - requests
+   - BeautifulSoup
+   - sqlite3
 
 ## 注意事項
 
-本專案僅供課堂與學術用途，資料來源為亞洲大學資工系官方網站
+   - 本專案僅供課堂與學術用途，資料來源為亞洲大學資工系官方網站
 
