@@ -1,0 +1,63 @@
+姓名：張文鐘（Wen-Thong Chang）
+研究領域：物連網系統、視訊串流、通訊系統、影像處理
+---
+姓名：蔡進發 （Jeffrey J.P. Tsai）（）
+研究領域：人工智能、生物資料、軟體工程、分散式即時系統
+---
+姓名：許聞廉（Wen-Lian Hsu）
+研究領域：演算法分析、生物資訊、計算語言、自然語言理解、智慧型對話系統
+---
+姓名：陳良弼（Arbee L.P. Chen）
+研究領域：巨量資料分析、資料庫偏愛查詢、行動資訊系統
+---
+姓名：黃明祥（Min-Shiang Hwang）
+研究領域：資訊與網路安全、密碼與藏密學、區塊鏈技術、智慧運算與行動通訊、管理資訊系統
+---
+姓名：許慶賢（Ching-Hsien Hsu）
+研究領域：雲端計算、人工智慧與應用、高性能計算、大數據與串流運算、平行與分散式系統、智慧醫療
+---
+姓名：李文熙（Wen-Hsi Lee）
+研究領域：有機薄膜電晶體、半導體薄膜製程、薄膜太陽能電池、電子陶瓷、射頻陶瓷元件、系統構裝
+---
+姓名：陳錫明（Shyi-Ming Chen）
+研究領域：模糊系統、智慧型系統、模糊決策、智慧型計算、知識庫系統、機器學習、資料探勘、大數據分析、遺傳演算法、粒子群最佳化演算法、類神經網路
+---
+姓名：洪西進（Shi-Jinn Horng）
+研究領域：深度學習與大數據、生物辨識技術、資訊安全、雲端和容錯計算、多媒體應用、醫療應用
+---
+姓名：詹景裕（Gene-Eu Jan）
+研究領域：電腦結構、平行處理、交換網路、超大型積體電路設計
+---
+姓名：蔡秀芬（Shiow-Fon Tsay）
+研究領域：凝態物理理論、計算物理、工程數學
+---
+姓名：蕭進松（Chin-Sung Hsiao）
+研究領域：光電半導體、奈米電漿元件、積體光學、電磁計算
+---
+姓名：陳興忠（Hsing-Chung Chen）
+研究領域：資通訊安全、人工智慧、應用密碼學、智慧物聯網、 區塊鏈技術應用與安全、量子安全供應信賴鏈
+---
+姓名：Brij Bhooshan Gupta（）
+研究領域：資訊安全、計算機網路、軟體工程
+---
+姓名：施能義（Neng-Yih Shih）
+研究領域：計算處理與應用、無線感測與轉換、智慧控制系統、定位與追縱
+---
+姓名：林俊淵（Chun-Yuan Lin）
+研究領域：平行與分散式處理 (MPI, OpenMP, CUDA)、生物資訊(基因體學、蛋白質體學、系統生物學、Solexa)、平行與分散式演算法、資料探勘與機器學習
+---
+姓名：蔡志仁（Zhi-Ren Tsai）
+研究領域：適應控制、電腦視覺、機器人學、電力電子
+---
+姓名：曾憲章Zeng Xianzhang（）
+研究領域：
+---
+姓名：Tadao Murata（）
+研究領域：Applications of Petri nets to problems related to the design, modeling, analysis, and performance of concurrent systems such as the following: distributed/communication software, network protocols, logic- and rule-based AI systems, manufacturing systems, parallel computing systems, and systems with fuzzy latency.
+---
+姓名：李錦輝（Chin-Hui Lee）
+研究領域：
+---
+姓名：黃光彩（Kuan Tsae Huang）
+研究領域：電機工程
+---
